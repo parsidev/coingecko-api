@@ -1,5 +1,5 @@
 {
-    "name": "codenix-sv/coingecko-api",
+    "name": "parsidev/coingecko-api",
     "type": "library",
     "description": "PHP REST API client for coingecko.com",
     "homepage": "https://github.com/codenix-sv/coingecko-api",
